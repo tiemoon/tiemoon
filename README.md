@@ -10,6 +10,9 @@ Welcome to my GitHub! I am a seasoned **Technology Leader** with over **23 years
 - 🛠️ **Technical Skills**: Proficient in `.NET technologies`, **relational database design**, **distributed systems**, and **test-driven development (TDD)** with a strong focus on **OOP** **refactoring** and **unit testing**.
 - 🎯 **Passion**: Solving complex problems, improving lives, and creating a positive impact through technology.
 
+### Courses
+![image](https://github.com/user-attachments/assets/c26ddcfd-6eee-492e-87ce-3fca969e1f38)
+
 ### What I Do
 - Develop and deliver scalable solutions tailored to user needs.
 - Design robust, maintainable systems that prioritize usability and performance.
