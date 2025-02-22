@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub! I am a seasoned **Technology Leader** with over **23 years of experience** in ICT sector, specializing in **system design**, **software engineering**, and creating enterprise and MVP solutions that engage users worldwide.
+Welcome to my GitHub! I am a seasoned **Technology Leader** with over **24 years of experience** in ICT sector, specializing in **system design**, **software engineering**, and creating enterprise and MVP solutions that engage users worldwide.
 
 ### About Me
 - 🌟 **Expertise**: Enterprise applications development, object-oriented programming, software design principles & patterns, Android app development, and agile methodologies.
